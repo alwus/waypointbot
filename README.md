@@ -1,4 +1,8 @@
 # WaypointBot
 ![Logo](https://cdn.discordapp.com/app-icons/1214331410194632715/34f5e77e9b0b44b49aa782f6731d213f.png)
 
-[Invite](https://discord.com/oauth2/authorize?client_id=1214331410194632715)
+<kbd> <br> [Invite](https://discord.com/oauth2/authorize?client_id=1214331410194632715) <br> </kbd>
+## Commands
+- ``/wadd [x][y][z][name]`` Add a waypoint
+- ``/wremove [name]`` Remove a waypoint
+- ``/wlist`` List available waypoints
